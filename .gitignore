@@ -1,0 +1,8 @@
+Abaikan folder library yang besar yang akan diinstall di server
+node_modules/
+
+Abaikan file kunci rahasia Firebase Anda
+serviceAccountKey.json
+
+Abaikan folder yang menyimpan sesi login WhatsApp
+.wwebjs_auth/
